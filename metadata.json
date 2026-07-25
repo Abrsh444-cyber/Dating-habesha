@@ -1,0 +1,6 @@
+{
+  "name": "Habesha Connect",
+  "description": "A culturally respectful, secure dating and relationship app for Ethiopian communities in Ethiopia and the diaspora.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
